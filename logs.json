@@ -4,7 +4,7 @@
         "level": "INFO",
         "message": "Application started"
     },
-    {
+{
         "timestamp": "10:05",
         "level": "WARNING",
         "message": "Low memory detected"
@@ -30,3 +30,4 @@
         "message": "High CPU usage"
     }
 ]
+                                                                                                            
